@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 venv/
 __pycache__/
 *.zip
@@ -5,3 +6,7 @@ __pycache__/
 *.csv
 *.json
 .ipynb_checkpoints/
+=======
+*.zip
+*.rar
+>>>>>>> efea82d664003cfb19c62999b45670498a1fda10
